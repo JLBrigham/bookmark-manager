@@ -1,9 +1,19 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/eds/Projects/Makers/bookmark-paring-challenge/bookmark-paring-challenge/bookmark/spec/features/add_new_bookmark_spec.rb": {
+      "/Users/joey/Desktop/Projects/bookmark/spec/features/add_new_bookmark_spec.rb": {
         "lines": [
           1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/joey/Desktop/Projects/bookmark/spec/features/delete_bookmark_spec.rb": {
+        "lines": [
           1,
           1,
           1,
@@ -14,92 +24,161 @@
           null
         ]
       },
-      "/Users/eds/Projects/Makers/bookmark-paring-challenge/bookmark-paring-challenge/bookmark/spec/features/testing_homepage_spec.rb": {
+      "/Users/joey/Desktop/Projects/bookmark/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
           1,
           1,
-          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+<<<<<<< HEAD
+=======
+          1,
+>>>>>>> parent of b55ad1a... Add title to bookmark
           null,
           null
         ]
       },
-      "/Users/eds/Projects/Makers/bookmark-paring-challenge/bookmark-paring-challenge/bookmark/spec/features/viewing_bookmarks_spec.rb": {
+      "/Users/joey/Desktop/Projects/bookmark/spec/unit/bookmark_list_spec.rb": {
         "lines": [
           1,
           1,
+          null,
+          1,
+          2,
+          2,
+          null,
           1,
           1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+<<<<<<< HEAD
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+=======
+>>>>>>> parent of b55ad1a... Add title to bookmark
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+<<<<<<< HEAD
+          null,
+          null,
+=======
+>>>>>>> parent of b55ad1a... Add title to bookmark
           null,
           null
         ]
       },
-      "/Users/eds/Projects/Makers/bookmark-paring-challenge/bookmark-paring-challenge/bookmark/spec/unit/bookmark_list_spec.rb": {
+      "/Users/joey/Desktop/Projects/bookmark/lib/Bookmark.rb": {
         "lines": [
           1,
           null,
           1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          0,
-          0,
-          null,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          0,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/eds/Projects/Makers/bookmark-paring-challenge/bookmark-paring-challenge/bookmark/lib/Bookmark.rb": {
-        "lines": [
           1,
           null,
           1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          0,
-          null,
-          1,
+<<<<<<< HEAD
+          10,
+          10,
           null,
           null,
           1,
-          6,
-          6,
-          null,
-          0,
-          null,
-          6,
           11,
+          20,
           null,
           null,
+          1,
+          2,
+=======
+          4,
+          4,
+>>>>>>> parent of b55ad1a... Add title to bookmark
+          null,
+          null,
+<<<<<<< HEAD
+          1,
+          19,
+          19,
+          19,
+          null,
+          null,
+          1,
+          null,
+          1,
+          23,
+          23,
+          null,
+          0,
+          null,
+=======
+          null,
+          4,
+          null,
+          null,
+          1,
+          10,
+          10,
+          null,
+          0,
+          null,
+          10,
+          27,
+          null,
+          null,
+          null,
+          1,
+          null,
+>>>>>>> parent of b55ad1a... Add title to bookmark
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/joey/Desktop/Projects/bookmark/spec/database_helpers.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          2,
+          2,
           null
         ]
       }
     },
-    "timestamp": 1614187611
+<<<<<<< HEAD
+    "timestamp": 1614258897
+=======
+    "timestamp": 1614184754
+>>>>>>> parent of b55ad1a... Add title to bookmark
   }
 }
